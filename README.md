@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning quantum algorithms
-- 👯 I’m looking to collaborate on quantum machine learning projects
+- 👯 I’m looking to collaborate on quantum computing and machine learning projects/games
 - 📫 How to reach me: arnav.garg2009@gmail.com
 
