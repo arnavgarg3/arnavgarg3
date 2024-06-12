@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning quantum computing, algorithms, and QML!
-- 👯 I’m looking to collaborate on QML projects and quantum hackathons!
-- 📫 How to reach me: arnav.garg2009@gmail.com
+- 🌱 I’m currently learning quantum computing, algorithms, and ml.
+- 👯 I’m looking to collaborate on deep learning projects
+- 📫 arngarg3@gmail.com
 
